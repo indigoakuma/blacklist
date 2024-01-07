@@ -1,3 +1,6 @@
+# Adobe
+# https://helpx.adobe.com/enterprise/kb/network-endpoints.html
+#
 adobe.com
 adobe.io
 adobecc.com
@@ -21,6 +24,10 @@ adobetag.com
 typekit.com
 typekit.net
 slp-statics.astockcdn.net
+#
+# Autodesk
+# https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/What-URLs-protocols-should-be-accessible-for-Desktop-Subscription-to-work-html.html
+#
 autodesk.com
 access.clic.autodesk.com
 clm.clic.autodesk.com
@@ -59,3 +66,4 @@ nexus.ensighten.com
 d1rvg4h59z7jah.cloudfront.net
 download.autodesk.com
 akamaiedge.net
+#
