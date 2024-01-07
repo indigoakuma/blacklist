@@ -26,7 +26,7 @@ swupdl.adobe.com
 oobe.adobe.com
 productrouter.adobe.com
 s3.amazonaws.com
-s3.amazonaws.com/tron-ffc-icons-prod/
+# s3.amazonaws.com/tron-ffc-icons-prod/
 tron-prod-customized-user-packages.s3.amazonaws.com
 armmf.adobe.com
 ardownload.adobe.com
@@ -57,7 +57,7 @@ api-cna01.adobe-services.com
 supportanyware.adobe.io
 genuine.adobe.com
 prod.adobegenuine.com
-gocart-web-prod-*.elb.amazonaws.com
+# gocart-web-prod-*.elb.amazonaws.com
 www.adobe.com
 acc-learn.adobe.com
 acc-learn.adobe.io
@@ -89,15 +89,15 @@ state.typekit.net
 use.typekit.net
 wwwimages.adobe.com
 wwwimages2.adobe.com
-http://armdl.adobe.com/
+# http://armdl.adobe.com/
 a3.behance.net
 a5.behance.net
 account.adobe.com
 acp-ss-an1.adobe.io
 acp-ss-ew1.adobe.io
 acp-ss.adobe.io
-*.adbecrsl.com
-*.adbephotos.com
+# *.adbecrsl.com
+# *.adbephotos.com
 adobe.ly
 adobesearch.adobe.io
 appregistry.adobe.io
@@ -133,7 +133,7 @@ comments.adobe.io
 community.adobe.com
 connect.ffc.adobeoobe.com
 creativecloud.adobe.com
-*.creativecloud.com
+# *.creativecloud.com
 cvs.adobe.com
 d32a1iuc7x840y.cloudfront.net
 d3gnp5fs6fu2h7.cloudfront.net
@@ -163,17 +163,17 @@ links.adobe.io
 livecreate-an1.adobe.io
 livecreate-ew1.adobe.io
 livecreate-ue1.adobe.io
-*.macromedia.com
+# *.macromedia.com
 mail.adobegov.com
 odin.adobe.com
-*.omniture.com
+# *.omniture.com
 pgc.adobe.io
 photos.adobe.io
 photoshop.adobe.com
 platform-assets.typekit.net
-platform-cs*.adobe.io
+# platform-cs*.adobe.io
 platform-cs.adobe.io
-acp-*.adobe.io
+# acp-*.adobe.io
 presence-an1.adobe.io
 presence-ew1.adobe.io
 presence-ue1.adobe.io
@@ -183,10 +183,10 @@ psweb-cd.adobe.io
 s.ftcdn.net
 server.messaging.adobe.com
 sensei.adobe.io
-sharedcloud-production*.s3.amazonaws.com
-sharedcloud-production*.s3-accelerate.amazonaws.com
-aep-cs*.s3-accelerate.amazonaws.com
-aep-cs*.s3.amazonaws.com
+# sharedcloud-production*.s3.amazonaws.com
+# sharedcloud-production*.s3-accelerate.amazonaws.com
+# aep-cs*.s3-accelerate.amazonaws.com
+# aep-cs*.s3.amazonaws.com
 sharedcloud-production-us-east-1-data-temp.s3.amazonaws.com
 slp-statics.astockcdn.net
 ss-prod-an1-notif-13-aws.adobess.com
@@ -205,9 +205,9 @@ ui.messaging.adobe.com
 use.typekit.com
 utut-service.adobe.com
 v.ftcdn.net
-wss://livecreate-*.adobe.io
-wss://presence-*.adobe.io
-wss://speech.platform.bing.com
+# wss://livecreate-*.adobe.io
+# wss://presence-*.adobe.io
+# wss://speech.platform.bing.com
 xd-cdn.adobecces.com
 xd.adobe.com
 xdce.adobe.io
@@ -271,25 +271,25 @@ stocks-data-service.apple.com
 uds.adobe-identity.com
 video.tv.adobe.com
 weather-data.apple.com
-wss://prod.wam.adobe.com
+# wss://prod.wam.adobe.com
 braze-images.com
 sdk.iad-01.braze.com
 cpf-temp-repo-ue1-prod.s3.amazonaws.com
-*.adobesc.com
-acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*
-acp-ss-*.adobe.io
-*.adobess.com
-cc-api-storage*.adobe.io
+# *.adobesc.com
+# acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*
+# acp-ss-*.adobe.io
+# *.adobess.com
+# cc-api-storage*.adobe.io
 assets2.adobe.com
 adobeexchange.com
 adbemdigitalmediarebootprod2.112.2o7.net
 cdn.tt.omtrdc.net
 api.demandbase.com
-*.ftcdn.net
-*.behance.net
-cc-api-image.adobe.io/createagc
-cc-api-image-x.adobe.io/agctosvg
-*.astockcdn.net
+# *.ftcdn.net
+# *.behance.net
+# cc-api-image.adobe.io/createagc
+# cc-api-image-x.adobe.io/agctosvg
+# *.astockcdn.net
 cc-api-assets.adobe.io
 api.behance.net
 adobe.demdex.net
@@ -297,8 +297,8 @@ adobe.tt.omtrdc.net
 store1.adobe.com
 adobe.com
 bam.nr-data.net
-*.adobe.io
-*.s3*.amazonaws.com
+# *.adobe.io
+# *.s3*.amazonaws.com
 bat.bing.com
 c.betrad.com
 c.evidon.com
@@ -320,8 +320,8 @@ use.edgefonts.net
 adobetag.com
 ans.oobesas.adobe.com
 api.adobe.io
-adobeexchange.com/api
-*.licenses.adobe.com
+# adobeexchange.com/api
+# *.licenses.adobe.com
 amazonaws.com
 adobe.io
 cc-api-sharedproductions-prerelease.adobe.io
@@ -329,7 +329,7 @@ cc-api-teamprojects.adobe.io
 cc-api-teamprojects-ue1.adobe.io
 cc-api-teamprojects-ew1.adobe.io
 cc-api-teamprojects-an1.adobe.io
-docs.aws.amazon.com/general/latest/gr/
+# docs.aws.amazon.com/general/latest/gr/
 rande.html#s3_region
 adobe-voice.adobe.io
 adobe-voice-va7.adobe.io
@@ -349,9 +349,9 @@ oz-prod-asset-aux.s3.us-west-2.amazonaws.com
 oz-prod-cr-params.s3.us-west-2.amazonaws.com
 directstorage.adbephotos.com
 oz-prod-versions.s3.us-west-2.amazonaws.com
-sensei.adobe.io/services/v2/predict
-image.adobe.io/sensei/mask
-image.adobe.io/utils/storage?num=2
+# sensei.adobe.io/services/v2/predict
+# image.adobe.io/sensei/mask
+# image.adobe.io/utils/storage?num=2
 creative.adobe.com
 myportfolio.com
 prosite.com
@@ -362,9 +362,9 @@ polka.typekit.net
 businesscatalyst.com
 digitalpublishing.acrobat.com
 color.adobe.com
-*.services.adobe.com
-lcs-entitlement.adobe.io/v1/user
-lcs-entitlement.adobe.io/v1/trial
+# *.services.adobe.com
+# lcs-entitlement.adobe.io/v1/user
+# lcs-entitlement.adobe.io/v1/trial
 licensing.adobe.com
 store.adobe.com
 store2.adobe.com
@@ -407,7 +407,7 @@ msdn.microsoft.com
 www.zoomify.com
 www.evidon.com
 www.betrad.com
-*.uservoice.com
+# *.uservoice.com
 thawte.com
 verisign.com
 api.mapbox.com
@@ -423,10 +423,11 @@ sharedcloud-production-us-east-1-data-asset.s3.amazonaws.com
 stock-vip-processed-prod-irl1.s3.eu-west-1.amazonaws.com
 thumbs-0.s3.amazonaws.com
 videos-0.s3-eu-central-1.amazonaws.com
-cc-ext-prod-pkgs.s3.amazonaws.com/Extensions/**
+# cc-ext-prod-pkgs.s3.amazonaws.com/Extensions/**
 #
 # Autodesk
 # https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/What-URLs-protocols-should-be-accessible-for-Desktop-Subscription-to-work-html.html
+#
 www.autodesk.com
 access.clic.autodesk.com
 clm.clic.autodesk.com
